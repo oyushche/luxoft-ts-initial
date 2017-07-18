@@ -3,7 +3,7 @@
     "module": "System",
     "target": "ES5",
     "lib": ["es5", "es2015.promise","DOM"],
-    "compileOnSave": true,
+//    "compileOnSave": true,
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,

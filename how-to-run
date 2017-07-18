@@ -1,0 +1,4 @@
+
+1. npm install
+2. sudo npm install -g typescript
+3. tsc
